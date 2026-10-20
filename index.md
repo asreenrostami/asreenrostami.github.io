@@ -38,7 +38,6 @@ how generative AI can be jailbroken and misused for social harm. You can read mo
 
 <p>
 I also serve on the <a href="https://imx.acm.org/sc/committee/" target="_blank" rel="noopener">Steering Committee</a> of the ACM IMX conference (Vice President for Conferences), and on the ethical advisory board of an
-EU-funded project. A continuously updated list of my projects and publications is maintained on my
-<a href="https://www.ri.se/en/person/asreen-rostami" target="_blank" rel="noopener">RISE profile page</a>.
+EU-funded project.
 </p>
 

@@ -75,6 +75,13 @@ a:hover {
   background-color: var(--primary);
   color: #fff !important;
 }
+.icon-text {
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 800;
+  font-size: .58rem;
+  letter-spacing: .01em;
+}
+.icon-orcid { display: block; }
 
 @media (min-width: 992px) {
   .social-nav {
@@ -128,6 +135,8 @@ a:hover {
 .resume-item .subheading.subheading-primary { font-size: .9rem; }
 
 .pub-list p { margin-bottom: 1.75rem; }
+.pub-list strong > a { color: var(--gray-800) !important; }
+.pub-list strong > a:hover { color: var(--primary) !important; }
 
 ul.awards-list {
   list-style: none;
@@ -225,29 +234,36 @@ ul.awards-list li.bullet-item {
 
 /* Expand / collapse project detail */
 .resume-item details {
-  margin-top: .6rem;
+  margin-top: 0;
 }
 .resume-item summary {
   cursor: pointer;
   list-style: none;
+  color: var(--gray-700);
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.resume-item summary::-webkit-details-marker { display: none; }
+.resume-item summary .read-more-label {
   display: inline-flex;
   align-items: center;
-  gap: .35rem;
+  gap: .3rem;
   font-weight: 700;
   font-size: .9rem;
   color: var(--primary);
   letter-spacing: .02rem;
+  white-space: nowrap;
 }
-.resume-item summary::-webkit-details-marker { display: none; }
-.resume-item summary::before {
+.resume-item summary .read-more-label::before {
   content: "+";
   display: inline-block;
   font-size: 1rem;
   line-height: 1;
   width: 1rem;
 }
-.resume-item details[open] summary::before { content: "\2212"; }
-.resume-item summary:hover { color: var(--gray-800); }
+.resume-item details[open] summary .read-more-label::before { content: "\2212"; }
+.resume-item summary:hover .read-more-label { color: var(--gray-800); }
 .resume-item .details-body {
   margin-top: .75rem;
   padding-left: 1rem;

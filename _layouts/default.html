@@ -17,7 +17,6 @@
   <!-- Icons / framework (vendored locally, no third-party CDN dependency) -->
   <link href="{{ '/assets/vendor/bootstrap/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
   <link href="{{ '/assets/vendor/fontawesome-free/css/all.min.css' | relative_url }}" rel="stylesheet">
-  <link href="{{ '/assets/vendor/academicons/academicons.min.css' | relative_url }}" rel="stylesheet">
 
   <!-- Site styles -->
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
@@ -43,16 +42,16 @@
 
         <ul class="navbar-nav social-nav">
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.social.acm }}" target="_blank" rel="noopener" title="ACM Digital Library" aria-label="ACM Digital Library"><i class="ai ai-acm"></i></a>
+            <a class="nav-link" href="{{ site.social.acm }}" target="_blank" rel="noopener" title="ACM Digital Library" aria-label="ACM Digital Library"><span class="icon-text">ACM</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ site.social.linkedin }}" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.social.orcid }}" target="_blank" rel="noopener" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid"></i></a>
+            <a class="nav-link" href="{{ site.social.orcid }}" target="_blank" rel="noopener" title="ORCID" aria-label="ORCID">{% include icon-orcid.html %}</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.social.scholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <a class="nav-link" href="{{ site.social.scholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
           </li>
         </ul>
       </div>
@@ -70,10 +69,10 @@
     <div class="container">
       <span>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</span>
       <ul class="social-nav footer-social">
-        <li><a href="{{ site.social.acm }}" target="_blank" rel="noopener" aria-label="ACM Digital Library"><i class="ai ai-acm"></i></a></li>
+        <li><a href="{{ site.social.acm }}" target="_blank" rel="noopener" aria-label="ACM Digital Library"><span class="icon-text">ACM</span></a></li>
         <li><a href="{{ site.social.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
-        <li><a href="{{ site.social.orcid }}" target="_blank" rel="noopener" aria-label="ORCID"><i class="ai ai-orcid"></i></a></li>
-        <li><a href="{{ site.social.scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+        <li><a href="{{ site.social.orcid }}" target="_blank" rel="noopener" aria-label="ORCID">{% include icon-orcid.html %}</a></li>
+        <li><a href="{{ site.social.scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a></li>
       </ul>
     </div>
   </footer>

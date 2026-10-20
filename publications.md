@@ -79,20 +79,20 @@ SPS 2024 (11th Swedish Production Symposium) &middot; <a href="https://journals.
 
 <p>
 <strong><a href="https://dl.acm.org/doi/10.1145/3555774" target="_blank">Why Users Hack: Conflicting Interests and the Political Economy of Software</a></strong><br>
-B Brown, M Vigren, <strong>Asreen Rostami</strong>, M Glöss<br>
+Barry Brown, Minna Vigren, <strong>Asreen Rostami</strong>, Mareike Gl&ouml;ss<br>
 CSCW 2022 &middot; <a href="https://dl.acm.org/doi/10.1145/3555774" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
 <p>
 <strong><a href="https://www.usenix.org/conference/soups2022/presentation/rostami" target="_blank">Being Hacked: Understanding Victims' Experiences of IoT Hacking</a></strong><br>
-<strong>Asreen Rostami</strong>, M Vigren, S Raza, B Brown<br>
+<strong>Asreen Rostami</strong>, Minna Vigren, Shahid Raza, Barry Brown<br>
 SOUPS 2022 &middot; <a href="https://www.usenix.org/conference/soups2022/presentation/rostami" target="_blank" rel="noopener"><em>(SOUPS)</em></a>
 </p>
 
 <p>
 <img src="https://dl.acm.org/userimages/na101/home/literatum/publisher/acm/classification/LinkedImages/awarded-papers/honorable-mention/icon-small_201811150829.jpg" alt="Honourable Mention" height="20">
 <strong><a href="https://dl.acm.org/doi/10.1145/3505284.3529966" target="_blank">Kintsugi VR: Designing with Fractured Objects</a></strong><br>
-<strong>Asreen Rostami</strong>, K Karlgren, D McMillan<br>
+<strong>Asreen Rostami</strong>, Kasper Karlgren, Donald McMillan<br>
 ACM IMX 2022 &middot; <a href="https://dl.acm.org/doi/10.1145/3505284.3529966" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
@@ -110,13 +110,13 @@ ACM CHI 2022 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3491102.350213
 
 <p>
 <strong><a href="https://dl.acm.org/doi/abs/10.1145/3411764.3445056" target="_blank">Design in Action: Unpacking the Artists' Role in Performance-Led Research</a></strong><br>
-J Tholanders, C Rossitto, <strong>Asreen Rostami</strong>, Y Ishiguro, T Miyaki, J Rekimoto<br>
+Jakob Tholander, Chiara Rossitto, <strong>Asreen Rostami</strong>, Y Ishiguro, T Miyaki, Jun Rekimoto<br>
 ACM CHI 2021 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3411764.3445056" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
 <p>
 <strong><a href="{{ '/papers/surveilance.pdf' | relative_url }}" target="_blank">Under Surveillance: Technology Practices of those Monitored by the State</a></strong><br>
-P Sanches, V Tsaknaki, <strong>Asreen Rostami</strong>, B Brown<br>
+Pedro Sanches, Vasiliki Tsaknaki, <strong>Asreen Rostami</strong>, Barry Brown<br>
 ACM CHI 2020 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376889" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
@@ -158,7 +158,7 @@ ACM TEI 2018 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3173225.317329
 
 <p>
 <strong><a href="{{ '/papers/glimpses.pdf' | relative_url }}" target="_blank">Glimpses of the future: Designing fictions for mixed-reality performances</a></strong><br>
-<strong>A Rostami</strong>, C Rossitto, D McMillan, J Spence, R Taylor, J Hook, J Williamson, L Barkhuus<br>
+<strong>Asreen Rostami</strong>, Chiara Rossitto, Donald McMillan, J Spence, Robyn Taylor, Jonathan Hook, Julie Williamson, Louise Barkhuus<br>
 ACM Interactions 2018 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3155048" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
@@ -170,13 +170,13 @@ HCI International 2017 &middot; <a href="https://link.springer.com/chapter/10.10
 
 <p>
 <strong><a href="{{ '/papers/design-fiction.pdf' | relative_url }}" target="_blank">Design fiction for mixed-reality performances</a></strong><br>
-<strong>A Rostami</strong>, C Rossitto, D McMillan, J Spence, R Taylor, J Hook, J Williamson, L Barkhuus<br>
+<strong>Asreen Rostami</strong>, Chiara Rossitto, Donald McMillan, J Spence, Robyn Taylor, Jonathan Hook, Julie Williamson, Louise Barkhuus<br>
 Proc. ACM CHI 2017 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3027063.3027080" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
 <p>
 <strong><a href="{{ '/papers/bio-sensed.pdf' | relative_url }}" target="_blank">Bio-sensed and embodied participation in interactive performance</a></strong><br>
-<strong>A Rostami</strong>, D McMillan, E Márquez Segura, C Rossitto, L Barkhuus<br>
+<strong>Asreen Rostami</strong>, Donald McMillan, Elena M&aacute;rquez Segura, Chiara Rossitto, Louise Barkhuus<br>
 Proc. ACM TEI 2017 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/3024969.3024998" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
@@ -194,19 +194,19 @@ ACM GROUP 2016 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/2957276.2957
 
 <p>
 <strong><a href="{{ '/papers/bodystorming.pdf' | relative_url }}" target="_blank">Bodystorming For Movement-Based Interaction Design</a></strong><br>
-EM Segura, LT Vidal, <strong>A Rostami</strong><br>
+Elena M&aacute;rquez Segura, Laia Turmo Vidal, <strong>Asreen Rostami</strong><br>
 Journal of Human Technology &middot; <a href="https://humantechnology.jyu.fi/archive/vol-12/issue-2/bodystorming-for-movement-based-interaction-design" target="_blank" rel="noopener"><em>(Journal of Human Technology)</em></a>
 </p>
 
 <p>
 <strong><a href="{{ '/papers/embodied-sketching.pdf' | relative_url }}" target="_blank">Embodied sketching</a></strong><br>
-E Márquez Segura, L Turmo Vidal, <strong>A Rostami</strong>, A Waern<br>
+Elena M&aacute;rquez Segura, Laia Turmo Vidal, <strong>Asreen Rostami</strong>, Annika Waern<br>
 Proc. ACM CHI 2016 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/2858036.2858486" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
 <p>
 <strong><a href="{{ '/papers/testing-ucall.pdf' | relative_url }}" target="_blank">Testing in the Field: Voice Based Interaction for Citizen Reporting in Uganda</a></strong><br>
-<strong>Asreen Rostami</strong>, V Savinov, L Barkhuus<br>
+<strong>Asreen Rostami</strong>, Valeriy Savinov, Louise Barkhuus<br>
 Proc. ACM CHI 2015 &middot; <a href="https://dl.acm.org/doi/abs/10.1145/2702613.2732893" target="_blank" rel="noopener"><em>(ACM)</em></a>
 </p>
 
