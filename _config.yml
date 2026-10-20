@@ -1,0 +1,45 @@
+title: Asreen Rostami
+email: asreen.rostami@ri.se
+description: >-
+  Senior Researcher in Technologies for Interaction at RISE Research
+  Institutes of Sweden, and Digital Futures fellow at the Stockholm
+  Technology & Interaction Research group, Stockholm University.
+baseurl: ""
+url: "https://asreenrostami.github.io"
+
+author: Asreen Rostami
+
+social:
+  acm: "https://dl.acm.org/profile/82258827057"
+  linkedin: "https://www.linkedin.com/in/asreenrostami/"
+  orcid: "https://orcid.org/0000-0003-0594-3027"
+  scholar: "https://scholar.google.se/citations?user=ag0u4NIAAAAJ&hl=en"
+
+nav:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Awards & Grants
+    url: /awards/
+# Hidden for now until Events & Opportunities / Blog content is ready.
+# Re-add these two entries to bring the tabs back:
+#  - title: Events & Opportunities
+#    url: /events/
+#  - title: Blog
+#    url: /blog/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:title/
+
+exclude:
+  - legacy-single-page
+  - papers/*.pdf.orig
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
