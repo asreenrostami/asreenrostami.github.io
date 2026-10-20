@@ -15,11 +15,10 @@ Grants</a> page.
   <h3>Jailbreaking AI</h3>
   <div class="subheading subheading-primary mb-1">Role: Principal Investigator</div>
   <div class="subheading subheading-secondary mb-3">Digital Futures (Seed Project) &middot; Partners: KTH, Stockholm University &middot; Aug 2026&ndash;Aug 2027</div>
-  <p>Studies how generative AI systems can be exploited for socially harmful purposes &mdash; through jailbreaks,
-  adversarial prompting, and other unsafe human-AI interaction &mdash; and aims to bridge technical jailbreak
-  research with human-centred research on digital harm.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Studies how generative AI systems can be exploited for socially harmful purposes &mdash; through jailbreaks,
+  adversarial prompting, and other unsafe human-AI interaction &mdash; and aims to bridge technical jailbreak
+  research with human-centred research on digital harm. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>The project treats this as a broader problem than cybersecurity alone, covering harms such as
       manipulation, coercive persuasion, misinformation, and intimate surveillance. Safety-aligned AI systems can
@@ -42,10 +41,9 @@ Grants</a> page.
   <h3>NextGenXR: Exploring AI Capabilities in Immersive Spaces</h3>
   <div class="subheading subheading-primary mb-1">Role: Principal Investigator</div>
   <div class="subheading subheading-secondary mb-3">Digital Futures &middot; Partners: KTH &middot; started Jan 2026, 2 years</div>
-  <p>Builds on the earlier XR Horizons collaboration to study co-creation between users and AI, and interaction
-  with AI agents in training and simulation, aiming to improve engagement, learning, and creativity.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Builds on the earlier XR Horizons collaboration to study co-creation between users and AI, and interaction
+  with AI agents in training and simulation, aiming to improve engagement, learning, and creativity. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>AI is now common in everyday tools, and XR hardware has become more affordable, but the intersection of
       AI and XR within human-computer interaction is still an emerging space, with open questions about
@@ -65,10 +63,9 @@ Grants</a> page.
   <h3>Virtual Training at Scale: XR, AI and the Future of Workforce</h3>
   <div class="subheading subheading-primary mb-1">Role: Coordinator, Project Manager &amp; Scientific Lead</div>
   <div class="subheading subheading-secondary mb-3">Vinnova (Advanced digitalisation) &middot; Partners: Volvo Trucks, SSAB, Luleå kommun &middot; started Sep 2025, 2 years</div>
-  <p>Builds evidence-based frameworks for scaling XR industrial training sustainably across Swedish industry, with
-  AI-powered virtual agents giving operators adaptive, real-time support on the job.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Builds evidence-based frameworks for scaling XR industrial training sustainably across Swedish industry, with
+  AI-powered virtual agents giving operators adaptive, real-time support on the job. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>Swedish industry must upskill new and existing employees as production systems and products change
       quickly, under pressure to deliver competence development on time while meeting high safety standards and
@@ -89,10 +86,9 @@ Grants</a> page.
   <h3>Sweden-Brazil XR &amp; AI Research Network</h3>
   <div class="subheading subheading-primary mb-1">Role: Co-Lead &amp; Coordinator</div>
   <div class="subheading subheading-secondary mb-3">Partners: RISE, Stockholm University, KTH, Fluminense Federal University, IBM Research Brazil, Centrum Wiskunde &amp; Informatica, UFF Medialab &middot; ongoing since 2024</div>
-  <p>An international research network bringing together researchers from Sweden and Brazil to advance Extended
-  Reality and Artificial Intelligence, co-located with ACM IMX'25 in Rio de Janeiro.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>An international research network bringing together researchers from Sweden and Brazil to advance Extended
+  Reality and Artificial Intelligence, co-located with ACM IMX'25 in Rio de Janeiro. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>The network strengthens ties between Swedish and Brazilian institutions, and the wider international
       community, around three research areas: Extended Reality, Artificial Intelligence, and Human-Computer
@@ -107,10 +103,9 @@ Grants</a> page.
   <h3>AI-Enabled XR</h3>
   <div class="subheading subheading-primary mb-1">Role: Principal Investigator</div>
   <div class="subheading subheading-secondary mb-3">Vinnova (Innovative collaborations with the USA in XR, step 1) &middot; Oct 2024&ndash;Mar 2025</div>
-  <p>Combines XR training simulators with large language models to move beyond basic text-based interaction
-  toward a more dynamic, language-driven training environment.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Combines XR training simulators with large language models to move beyond basic text-based interaction
+  toward a more dynamic, language-driven training environment. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>The project grew out of 2023 workshops and inquiries on XR and AI, which identified a need for a
       dynamic, LLM-enabled VR simulator that could support equitable education, help people overcome anxiety, and
@@ -129,10 +124,9 @@ Grants</a> page.
   <h3>Autonomous Last Mile</h3>
   <div class="subheading subheading-primary mb-1">Role: Coordinator</div>
   <div class="subheading subheading-secondary mb-3">Vinnova &middot; Partners: Stockholm University &middot; May&ndash;Dec 2024</div>
-  <p>A speculative XR project imagining a future where autonomous vehicles have largely replaced human driving,
-  used to provoke reflection on labour, safety, and the gig economy before that future arrives.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>A speculative XR project imagining a future where autonomous vehicles have largely replaced human driving,
+  used to provoke reflection on labour, safety, and the gig economy before that future arrives. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>Autonomous vehicles are widely seen as the future of transport, expected to be safer than human drivers
       because they don't get distracted or tired. In practice, deployed autonomous systems rarely take over
@@ -156,10 +150,9 @@ Grants</a> page.
   <h3>Multi-User, Multi-Sensory Interactions &amp; Ethics in Spatial Computing</h3>
   <div class="subheading subheading-primary mb-1">Role: Principal Investigator</div>
   <div class="subheading subheading-secondary mb-3">Digital Futures &middot; Partners: KTH (XR Horizons) &middot; started Jan 2024, 2.5 years</div>
-  <p>Extends XR with multi-user environments, multisensory experiences including haptic feedback, and indoor and
-  outdoor settings, with particular emphasis on ethics, security, trust, and inclusivity.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Extends XR with multi-user environments, multisensory experiences including haptic feedback, and indoor and
+  outdoor settings, with particular emphasis on ethics, security, trust, and inclusivity. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>XR can enable remote co-located experiences, realistic interaction, and support a climate-neutral
       society, but its effects on cultural and social behaviour, along with privacy and security concerns, still
@@ -183,10 +176,9 @@ Grants</a> page.
   <h3>Understanding Real-World Cybersecurity Incident Responses in Sweden</h3>
   <div class="subheading subheading-primary mb-1">Role: Project Lead</div>
   <div class="subheading subheading-secondary mb-3">RISE Center for Cybersecurity &middot; started Feb 2023</div>
-  <p>A pilot study of real-world cybersecurity incidents across Swedish sectors, examining how organisations
-  respond during and after an incident, and how they reassess their security strategies afterward.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>A pilot study of real-world cybersecurity incidents across Swedish sectors, examining how organisations
+  respond during and after an incident, and how they reassess their security strategies afterward. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>The project tests the hypothesis that organisations which have suffered major incidents become better
       prepared for later ones, both through heightened awareness of vulnerabilities and through practices that
@@ -204,10 +196,9 @@ Grants</a> page.
   <h3>Plenary Multi-User Development Arena for Industrial Workspaces (PLENUM)</h3>
   <div class="subheading subheading-primary mb-1">Role: Senior Research Expert</div>
   <div class="subheading subheading-secondary mb-3">Vinnova &middot; Partners: Chalmers University (coordinator), AB Volvo, CEVT, Scania, University of Skövde, Fraunhofer-Chalmers Centre, Volvo Cars &middot; started Sep 2022, 36 months</div>
-  <p>Builds a multi-user XR platform for collaborative 3D work on factory design, simulation, and up-/reskilling
-  of operators, with KPIs for economic, environmental, and social sustainability.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Builds a multi-user XR platform for collaborative 3D work on factory design, simulation, and up-/reskilling
+  of operators, with KPIs for economic, environmental, and social sustainability. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>The platform lets stakeholders plan and assess factory layouts and collaboratively check whether a
       layout is feasible, and trains operators on future equipment, heavy and large-part installation, and
@@ -228,10 +219,9 @@ Grants</a> page.
   <h3>Gender-Inclusive Cybersecurity</h3>
   <div class="subheading subheading-primary mb-1">Role: Principal Investigator</div>
   <div class="subheading subheading-secondary mb-3">Digital Futures (Postdoc Fellowship)</div>
-  <p>Brings marginalised perspectives into cybersecurity, starting with deviant use of smart home devices, to
-  develop a human-centred approach to security built on diversity, autonomy, respect, and consent.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>Brings marginalised perspectives into cybersecurity, starting with deviant use of smart home devices, to
+  develop a human-centred approach to security built on diversity, autonomy, respect, and consent. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>This project is built around bringing marginalised perspectives into cybersecurity, starting with
       looking at deviant use of smart home devices. Its goal is to develop a &ldquo;gender-inclusive
@@ -244,10 +234,9 @@ Grants</a> page.
 <div class="resume-item">
   <h3>Securing Things: Human-Centred Internet of Things Security</h3>
   <div class="subheading subheading-primary mb-3">Role: Researcher</div>
-  <p>&ldquo;Humanising&rdquo; Internet of Things (IoT) security by understanding the technical, design, social and
-  political issues that arise when considering IoT systems from a human-centred perspective.</p>
   <details>
-    <summary><span class="read-more-label">Read more</span></summary>
+    <summary>&ldquo;Humanising&rdquo; Internet of Things (IoT) security by understanding the technical, design, social and
+  political issues that arise when considering IoT systems from a human-centred perspective. <span class="read-more-label">Read more</span></summary>
     <div class="details-body">
       <p>What does it mean to feel secure when using IoT systems? How do we design and facilitate secure IoT?
       This project's investigations took an approach stressing the relationality of IoT infrastructures, aiming
